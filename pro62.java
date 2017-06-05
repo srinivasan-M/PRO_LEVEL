@@ -36,10 +36,10 @@ public class pro62 {
 			if(str1.length()==f)
 			{
 				System.out.println(str1);
+				break;
 			}
 		  
 		}
 	}
 
 }
-
